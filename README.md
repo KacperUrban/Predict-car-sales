@@ -12,4 +12,4 @@ The main goal of this project was to predict cars sales. I used the car sales da
 * Matplotlib
 
 ## Status
-The project have been finish.
+The project has been finish.
